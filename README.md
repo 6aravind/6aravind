@@ -38,14 +38,15 @@ Here are some ideas to get you started:
 
 ---
 
-## Popular Posts ✍️📹
+## Recent Blogs ✍️
 
-| Title | Blog | Video |
-| ---   | :-:  | :-:   |
-| Stamp Detection using Computer Vision and Python |[Link](https://medium.com/analytics-vidhya/stamp-detection-using-computer-vision-and-python-6038a0243429) | [Link](https://www.instagram.com/p/CPLL2mmjqnv/?utm_source=ig_web_copy_link)|
-| Digit Emoji Predictor: Build UI for Deep Learning model in Notebook |[Link](https://medium.com/analytics-vidhya/digit-emoji-predictor-build-ui-for-deep-learning-model-in-notebook-cc8e08669174) | [Link](https://www.instagram.com/p/COXwpfXjXzG/?utm_source=ig_web_copy_link)|
-| Do You Really Understand Try & Finally in Python? |[Link](https://medium.com/analytics-vidhya/do-you-really-understand-try-finally-in-python-110cee4c1a8) | [Link](https://www.instagram.com/p/CNzoszSj34x/?utm_source=ig_web_copy_link)|
-| <center> ➡️ | [More blogs...][medium] | [More videos...][instagram]|
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@6aravind/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@6aravind/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@6aravind/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@6aravind/1" alt="Recent Article 1">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@6aravind/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@6aravind/2" alt="Recent Article 2">
+
+[More blogs...][medium]
 
 
 ---
