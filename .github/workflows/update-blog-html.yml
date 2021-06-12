@@ -1,0 +1,42 @@
+name: update-blog-html 
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *' # runs at 00:00 UTC everyday
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo
+        uses: actions/checkout@v2
+        with:
+          ref: 'site'
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8' # install the python version needed
+
+      - name: install python packages
+        run: |
+          cd update_blog
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: execute data py script 
+        run: |
+          cd update_blog
+          python medium_rss_parser.py
+
+      - name: execute py script to generate html
+        run: |
+          cd update_blog
+          python generate_blog_html.py
+          
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Updated HTML for blog page
