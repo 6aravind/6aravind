@@ -1,15 +1,19 @@
+/* Set Parameters */
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&display=swap');
+
 :root{
     --clr-bgd:#808080;
-    
     --clr-card: #252422;
 
     --clr-tag: #c19ab7;
     --card-width: 300px;
-
     --text-height: 1.2rem;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&display=swap');
+/* Set Body and Header */
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     background-color: var(--clr-bgd);
@@ -22,15 +26,13 @@ body {
     text-align: center;
 }
 
+
 .card-list {
     display: grid;
     gap: 1rem;
     grid-template-columns: repeat(auto-fill, minmax(var(--card-width), 1fr));;
 }
 
-.card-header {
-    margin-bottom: auto;
-}
 
 .card {
     min-width: 250px;
@@ -41,7 +43,6 @@ body {
     display: flex;
     flex-direction: column;
     transition: .2s;
-    
 }
 
 .card-image {
@@ -86,5 +87,20 @@ body {
  font-style: italic;
 }
 
+/* Scroll To Top Button */
 
+#scrollToTopBtn {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 3rem;
+    width: 4rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    padding: 0;
+  }
 
