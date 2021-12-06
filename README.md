@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-- I create educational content about Python, Computer Vision and Deep Learning
-- You can find my blog posts on [Medium][medium]
+- I [blog][website] about Python, Web Development, Computer Vision and Deep Learning.
 - Code for all the posts is available here on [Github](https://github.com/6aravind/tidbits)
 
 ---
