@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [<img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium] 
 
 
-## I'm a Web Developer & Data Scientist 🤖
+## I'm a Solopreneur & Data Scientist 🤖
 
 <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 <img height="30" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> 
@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
+- I am building [OutdoData](https://outdodata.com)  - nocode browser based tool that can automate data processing tasks.
 - I [blog][website] about Python, Web Development, Computer Vision and Deep Learning.
-- Code for all the posts is available here on [Github](https://github.com/6aravind/tidbits)
 
 ---
 
@@ -71,13 +70,7 @@ Feel free to reach out to me for collab!
 <br />
 
 ---
-## Support Me 🤗
 
-You can show support by starring my repos, liking and sharing my posts.
-
-Thank you all so much 🙏
-
----
 
 ## Inspired By 💡
 
